@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/JC_StylizedNature_Lite/Scenes/StylizedNatureLite_Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/2.sahne.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
